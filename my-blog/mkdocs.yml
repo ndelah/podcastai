@@ -20,5 +20,5 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-site_url: https://ndelahou.github.io/repo-name/ 
-# https://github.com/ndelah/podcastai
+site_url: https://ndelah.github.io/podcastai/ 
+
